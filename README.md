@@ -17,8 +17,7 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
 # Screenshot
-![Screenshot of the finished site]
-(./images/website-screenshot.png)
+![Screenshot of the finished site](./assets/images/website-screenshot.png)
 
 Repo: https://github.com/kitanablade/challenge-1-refactor
 Site: https://kitanablade.github.io/challenge-1-refactor/
