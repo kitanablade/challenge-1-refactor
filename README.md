@@ -3,7 +3,6 @@
 Refactor the HTML and CSS files to be more organized, use fewer lines of code with fewer repetitions, and better SEO/accessibility without changing the layout or content of the webpage.
 
 ## Acceptance Criteria
-
 ```
 GIVEN a webpage meets accessibility standards
 WHEN I view the source code
@@ -17,3 +16,9 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
+# Screenshot
+![Screenshot of the finished site]
+(./images/website-screenshot.png)
+
+Repo: https://github.com/kitanablade/challenge-1-refactor
+Site: https://kitanablade.github.io/challenge-1-refactor/
